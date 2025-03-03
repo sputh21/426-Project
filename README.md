@@ -4,7 +4,7 @@ Project Name : Stratos
 Team Name: Team 27
 Team Members and Github Usernames: 
 Sameen Shaik:  
-Aareb Chowdhury: 
+Aareb Chowdhury: akchdhry
 Ahmed Saeed:
 Yunis Egal:
 Sahil Puthawala: sputh21
