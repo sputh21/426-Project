@@ -9,9 +9,7 @@ function Navbar() {
       <div className="navbar-logo">Stratos</div>
       <ul className="navbar-links">
         <li><Link to="/">Home</Link></li>
-        <li><Link to="/dashboard">Dashboard</Link></li>
-        <li><Link to="/transactions">Transactions</Link></li>
-        <li><Link to="/settings">Settings</Link></li>
+        <li><Link to="/login">Login</Link></li>
       </ul>
     </nav>
   );
