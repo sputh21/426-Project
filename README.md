@@ -5,7 +5,6 @@ Team Name: Team 27
 Team Members and Github Usernames: 
 Sameen Shaik:  sshaik03
 Aareb Chowdhury: akchdhry
-Ahmed Saeed: AhmyCodes
 Yunis Egal: ye-190
 Sahil Puthawala: sputh21
 
