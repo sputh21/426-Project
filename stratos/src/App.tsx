@@ -3,6 +3,7 @@ import React from 'react';
 import './App.css';
 import Navbar from './components/Navbar'
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { DisplayBills, InputFields } from './components/logger';
 
 function App() {
   return (
@@ -32,6 +33,11 @@ function App() {
             <h1>login page</h1>
             
           }/>
+
+          <Route path='/logger' element={
+            <DisplayBills></DisplayBills>
+          }
+          />
           
         </Routes>
       </div>
